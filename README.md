@@ -1,4 +1,4 @@
-# Developer Security Essentials package for Online use
+# Developer Security Essentials Package for Online Use
 
 This package contains the materials for a facilitator to deliver the Developer Security Essentials package of three workshops to help developers improve their security and privacy decision-making. These materials are designed for remote/videoconferencing use; see the [face-to-face version](https://github.com/SecurityEssentials/face-to-face) for a face-to-face version.
 
